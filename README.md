@@ -1,5 +1,6 @@
 # KangarooFitness
 The following information is included in my group's report of our project which can also be viewed in the report files.
+The database and queries can be viewed within our Microsoft Access File. 
 We were assigned to create a database based off of our selected business proposal. 
 All prinouts are able to be viewed within the file itself. 
 
